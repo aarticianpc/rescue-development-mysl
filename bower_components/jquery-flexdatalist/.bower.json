@@ -1,0 +1,21 @@
+{
+  "name": "jquery-flexdatalist",
+  "version": "2.2.4",
+  "main": [
+    "jquery.flexdatalist.js"
+  ],
+  "dependencies": {
+    "jquery": ">=1.8"
+  },
+  "homepage": "https://github.com/sergiodlopes/jquery-flexdatalist",
+  "_release": "2.2.4",
+  "_resolution": {
+    "type": "version",
+    "tag": "2.2.4",
+    "commit": "2512e1845fe4445ce99cf7c13939eff78bcc9bfa"
+  },
+  "_source": "https://github.com/sergiodlopes/jquery-flexdatalist.git",
+  "_target": "^2.2.4",
+  "_originalSource": "jquery-flexdatalist",
+  "_direct": true
+}

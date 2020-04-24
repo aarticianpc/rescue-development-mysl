@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--XML Document Constructed on 9/29/2017 12:40 PM-->
+<Rescue>
+  <FileNumber>56430MDF-HQ</FileNumber>
+  <CaseStatus>IN REVIEW</CaseStatus>
+  <entryDate>8-1-2017</entryDate>
+  <LOEmailAddress>igoryacheva@hotmail.com</LOEmailAddress>
+  <entrytime>9:11:03 AM</entrytime>
+  <ReverseMtg>NO</ReverseMtg>
+  <Office>HQ</Office>
+  <Type>PURCHASE</Type>
+  <BorrowerLastName>TEST</BorrowerLastName>
+  <LenderName>LENDERLIVE</LenderName>
+  <LenderAddress1>1044 MAIN STREET</LenderAddress1>
+  <LenderAddress2>SUITE 700</LenderAddress2>
+  <LenderCityStateZip>KANSAS CITY, MO 64105</LenderCityStateZip>
+  <LenderRecordID>60018</LenderRecordID>
+  <PropertyAddress>100 EAST MEDINA ROAD 234</PropertyAddress>
+  <PropertyCity>ALEXANDRIA</PropertyCity>
+  <PropertyStateAbbr>MD</PropertyStateAbbr>
+  <PropertyStateName>Maryland</PropertyStateName>
+  <PropertyZip>06519-2512</PropertyZip>
+  <PropertyCounty>PRINCE GEORGES COUNTY</PropertyCounty>
+  <OwnerOccupied>N</OwnerOccupied>
+  <PropertyType>COMMERCIAL</PropertyType>
+  <LoanPurpose>SECOND LIEN</LoanPurpose>
+  <LoanType>CONV</LoanType>
+  <LenderLoanClause>its successors and or assigns as their interest may appear</LenderLoanClause>
+  <SalesPrice>324000.00</SalesPrice>
+  <SalesPriceInWords>three hundred and twenty-four thousand  dollars and zero cents</SalesPriceInWords>
+  <LoanAmount>123000.00</LoanAmount>
+  <LoanAmountInWords>one hundred and twenty-three thousand  dollars and zero cents</LoanAmountInWords>
+  <SettlementDate>8-2-2017</SettlementDate>
+  <SettlementDateInWords>August 02, 2017</SettlementDateInWords>
+  <DisburseDate>8-3-2017</DisburseDate>
+  <DisburseDateInWords>August 03, 2017</DisburseDateInWords>
+  <BorrowersTotalNo>1</BorrowersTotalNo>
+  <Borrower1Fullname>SAMMY TEST</Borrower1Fullname>
+  <Borrower1HomeAddress>100 EAST MEDINA ROAD 234</Borrower1HomeAddress>
+  <Borrower1CSZ>ALEXANDRIA, MD 06519-2512</Borrower1CSZ>
+  <Borrower1SSN>11-1111111</Borrower1SSN>
+  <Borrower1EntityType>BY POA</Borrower1EntityType>
+  <Borrower1Signatory>BARBARA HOPKINS</Borrower1Signatory>
+  <Borrower1Title>AUTHORIZED INDIVIDUAL</Borrower1Title>
+  <SellersTotalNo>1</SellersTotalNo>
+  <Seller1Fullname>CONCORD CONDOMINIUM, LLC</Seller1Fullname>
+  <Seller1HomeAddress>100 EAST MEDINA ROAD 234</Seller1HomeAddress>
+  <Seller1CSZ>ALEXANDRIA, MD 06519-2512</Seller1CSZ>
+  <Seller1EntityType>LLC</Seller1EntityType>
+  <Seller1Signatory>DEFENCE LALAWNG</Seller1Signatory>
+  <Seller1Title>MEMBER</Seller1Title>
+  <TypeSearch>FULL SEARCH</TypeSearch>
+  <InDateSearch>9/14/2017</InDateSearch>
+  <EstateTypeFeeOrLease>FEE SIMPLE</EstateTypeFeeOrLease>
+  <SearchThruDate>8/8/2017</SearchThruDate>
+  <GrantorsForDeed>MELANIE KLOTH, AS TRUSTEE OF THE OBLO LAND TRUST</GrantorsForDeed>
+  <DateOfDeed>1/13/2009</DateOfDeed>
+  <RecordedDateDeed>2/2/2009</RecordedDateDeed>
+  <LiberBookDeed>41680</LiberBookDeed>
+  <FolioPageDeed>111815107</FolioPageDeed>
+  <InstrmentDocNoDeed>1251538</InstrmentDocNoDeed>
+  <PropertyLegal>SDGFDGD FHGDF HFGHFGH DGJD GJDG JGFJ</PropertyLegal>
+  <PropertyTaxID>0026197</PropertyTaxID>
+  <CurrentTitleHolders>BENTLEY OUWENEEL AND LINDA OUWENEEL, AS JOINT TENANTS WITH RIGHTS OF SURVIVORSHIP</CurrentTitleHolders>
+  <NewTitleHolders>SAMMY TESTYYY</NewTitleHolders>
+  <StatusOwnership>IN REVIEW</StatusOwnership>
+  <LienssTotalNo>2</LienssTotalNo>
+  <Liens1Dated>6-15-2005</Liens1Dated>
+  <Liens1OrigAmt>100000</Liens1OrigAmt>
+  <Liens1From>ALLAN SHEMER AND RUJA K. SHEMER</Liens1From>
+  <Liens1InstrType>DEED OF TRUST</Liens1InstrType>
+  <Liens1Trustees>AAAAA</Liens1Trustees>
+  <Liens1OrigLender>AMERICAN EQUITY MORTGAGE, INC</Liens1OrigLender>
+  <Liens1Recorded>2-20-2014</Liens1Recorded>
+  <Liens1Liber>10751</Liens1Liber>
+  <Liens1Folio>0039</Liens1Folio>
+  <Liens1InstrNo>0412732026</Liens1InstrNo>
+  <Liens1Action>THIS IS STAYING IN PLACE AS A FIRST LIEN</Liens1Action>
+  <Liens1PayoffName>FIFTH THIRD BANK MORTGAGE LOAN PAYOFFS</Liens1PayoffName>
+  <Liens1PayoffAttn>MADISONVILLE OPERATIONS CENTER</Liens1PayoffAttn>
+  <Liens1PayoffAddress1>5050 KINGLSEY DRIVE</Liens1PayoffAddress1>
+  <Liens1PayoffAddress2>MAILDROP 1MOC2K</Liens1PayoffAddress2>
+  <Liens1PayoffCSZ>CINCINNATI, OH 45263</Liens1PayoffCSZ>
+  <Liens1AccountNo>4564</Liens1AccountNo>
+  <Liens1Principal>120000.00</Liens1Principal>
+  <Liens1TotalDue>120000.00</Liens1TotalDue>
+  <Liens1InterestThruDate>9-15-2017</Liens1InterestThruDate>
+  <Liens1Total>120000.00</Liens1Total>
+  <Liens1GoodThru>9-15-2017</Liens1GoodThru>
+  <Liens2Dated>12-11-2014</Liens2Dated>
+  <Liens2OrigAmt>23000.00</Liens2OrigAmt>
+  <Liens2From>CONCORD CONDOMINIUM, LLC</Liens2From>
+  <Liens2InstrType>DEED OF TRUST</Liens2InstrType>
+  <Liens2Trustees>ALAN E. SOUTH</Liens2Trustees>
+  <Liens2OrigLender>BRANCH BANKING AND TRUST COMPANY</Liens2OrigLender>
+  <Liens2Recorded>1-13-2015</Liens2Recorded>
+  <Liens2Liber>10751</Liens2Liber>
+  <Liens2Folio>0039</Liens2Folio>
+  <Liens2Assignment>ASSIGNMENT</Liens2Assignment>
+  <Liens2Recorded2>10-12-2011</Liens2Recorded2>
+  <Liens2Liber2>19914</Liens2Liber2>
+  <Liens2Folio2>1218</Liens2Folio2>
+  <Liens2Action>THIS IS STAYING IN PLACE AS A SECOND LIEN</Liens2Action>
+  <PrimaryLicense>FIRST AMERICAN TITLE INSURANCE COMPANY</PrimaryLicense>  
+  <LoanPolicyType>2006 BASIC LOAN POLICY,5011300</LoanPolicyType>
+  <LoanPolicyNo>5011300-938961</LoanPolicyNo>
+  <OwnersPolicyType>EXPANDED OWNERS POLICY,5006400</OwnersPolicyType>
+  <OwnersPolicyNo>5006400-15343</OwnersPolicyNo>
+  <InstrdocType1>SUBORDINATION AGREEMENT</InstrdocType1>
+  <RecordingProblem>N</RecordingProblem>
+  <ListingAgentFullName>ALEX GOUMILEVSKI</ListingAgentFullName>
+  <AffiliateAgentName>ALEX GOUMILEVSKI</AffiliateAgentName>
+  <ListingBroker>CAPITAL GATEWAY REALTORS</ListingBroker>
+  <ListingBrokerAddress>14100 PARKE LONG COURT, SUITE M</ListingBrokerAddress>
+  <ListingBrokerCSZ>CHANTILLY, VA 20151</ListingBrokerCSZ>
+  <ListingAgentWorkPhone>240-401-9142</ListingAgentWorkPhone>
+  <ListingAgentFax>240-465-4916</ListingAgentFax>
+  <ListingAgentEmail>ALEX@AGENTALEX.NET</ListingAgentEmail>
+  <ListingAgentID>5325</ListingAgentID>
+  <BrokerCommissionSalesPrice>324000.0000</BrokerCommissionSalesPrice>
+  <ListingBrokerCommissionPaidBy>Seller</ListingBrokerCommissionPaidBy>
+  <SellingBrokerCommissionPaidBy>Seller</SellingBrokerCommissionPaidBy>
+  <SellingBrokerAdminPaidBy>Seller</SellingBrokerAdminPaidBy>
+  <ListingAdminPaidBy>Seller</ListingAdminPaidBy>
+  <ListingBrokerAdminName>ADMIN FEE</ListingBrokerAdminName>
+  <SellingBrokerAdminName>ADMIN FEE</SellingBrokerAdminName>
+  <TaxType>COUNTY</TaxType>
+  <TaxAnnualAmt>12,313.00</TaxAnnualAmt>
+  <TaxHowTaxPaid>ANNUALLY</TaxHowTaxPaid>
+  <TaxDueDates>9-30 &amp; 12-31</TaxDueDates>
+  <TaxDiscount>False</TaxDiscount>
+  <TaxEstimated>False</TaxEstimated>
+  <TaxGeneralClause>ANNUAL COUNTY TAXES ARE $12,313.00. TAXES ARE PAID ANNUALLY TO PRINCE GEORGES COUNTY TREASURY DIVISION ON 9-30 &amp; 12-31.</TaxGeneralClause>
+  <TaxPayee>PRINCE GEORGES COUNTY TREASURY DIVISION</TaxPayee>
+  <Requirement1>BORROWER(S) SHALL EXECUTE JUDGMENT AFFIDAVIT AT CLOSING AFFIRMING THAT THE JUDGMENTS LISTED AGAINST INDIVIDUALS WITH SIMILAR NAMES ARE NOT OUR BORROWER(S).</Requirement1>
+  <Requirement2>SDFGSDFGDSFG</Requirement2>
+  <Requirement3>SUBJECT TO RECEIPT AND REVIEW OF CONTINUOUS MARRIAGE AFFIDAVIT EXECUTED BY ____________________________ WITH REGARD TO DECEASED SPOUSE ____________________________, CONFIRMING CONTINUOUS MARRIAGE THROUGH DATE OF DEATH FOR DECEASED TITLE HOLDER.</Requirement3>
+  <RequirementSpecial1>IF THE SUBJECT TRANSACTION IS TO BE SECURED BY INDIVIDUALS OTHER THAN THOSE IDENTIFIED IN SCHEDULE A, ITEM #3 HEREOF, THIS COMPANY MUST BE NOTIFIED AND RESERVES THE RIGHT TO ADD ADDITIONAL REQUIREMENTS OR EXCEPTIONS. </RequirementSpecial1>
+  <RequirementsTotalNo>3</RequirementsTotalNo>
+  <RequirementsSpecialTotalNo>1</RequirementsSpecialTotalNo>
+  <Exception1>CERTAIN VILLAGES, TOWNS, CITIES AND MUNICIPALITIES ASSESS A TAX ON REAL ESTATE SEPARATE FROM THE COUNTY TAXES. IT IS THE RESPONSIBILITY OF THE PROPERTY OWNER TO PAY SAID TAXES IF AND WHEN THEY ARE DUE. THEREFORE THIS COMMITMENT AND/OR POLICY IS SUBJECT TO SAID TAXES, IF ANY. </Exception1>
+  <Exception2>TERMS AND PROVISIONS OF LEASE RECORDED AT LIBER ___________, FOLIO _______, ON__________. CURRENT LEASE IS DUE TO EXPIRE ON ___________ , AND MAY BE RENEWABLE UNDER CURRENT LAW. SUBJECT LEASE HAS A TOTAL ANNUAL GROUND RENT OF $ ________ PAYABLE ON_____ AND _______ EACH YEAR.</Exception2>
+  <Exception3>THIS COMMITMENT/POLICY AFFIRMATIVELY INSURES THAT NONE OF THE COVENANTS, EASEMENTS AND/OR RIGHTS-OF-WAY, OR RESTRICTIONS LISTED HAVE BEEN VIOLATED AND THAT NO FUTURE VIOLATION WILL RESULT IN FORFEITURE OR REVERSION OF TITLE, OR ANY LOSS TO THE MORTGAGEE.</Exception3>
+  <ExceptionSpecial1>IF THE SUBJECT TRANSACTION IS TO BE SECURED BY INDIVIDUALS OTHER THAN THOSE IDENTIFIED IN SCHEDULE A, ITEM #3 HEREOF, THIS COMPANY MUST BE NOTIFIED AND RESERVES THE RIGHT TO ADD ADDITIONAL REQUIREMENTS OR EXCEPTIONS.</ExceptionSpecial1>
+  <ExceptionSpecial2>NOTE: ANY EXCEPTION STATED IN THIS POLICY FOR COVENANTS, CONDITIONS OR RESTRICTIONS WHICH INDICATE A PREFERENCE, LIMITATION OR DISCRIMINATION BASED ON RACE, COLOR, RELIGION, SEX, HANDICAP, FAMILIAL STATUS OR NATIONAL ORIGIN IS OMITTED AS PROVIDED IN 42 U.S.C. 3604, UNLESS AND ONLY TO THE EXTENT THAT THE RESTRICTION (A) IS NOT A VIOLATION OF STATE OR FEDERAL LAW, (B) IS EXEMPT UNDER U.S.C. 3607, OR (C) RELATES TO A HANDICAP, BUT DOES NOT DISCRIMINATE AGAINST HANDICAPPED PEOPLE.</ExceptionSpecial2>
+  <ExceptionSpecial3>COVENANTS,CONDITIONS, RESTRICTIONS, ASSESSMENTS, EASEMENTS, RIGHTS OF WAY AND LIMITATIONS, INCLUDING MINERAL AND MINERAL RIGHTS RECORDED AND UNRECORDED, AS MAY LAWFULLY APPLY TO SAID REAL ESTATE. THIS POLICY INSURES THAT THE USE OF LAND FOR RESIDENTIAL ONE TO FOUR FAMILY DWELLING PURPOSES IS NOT AFFECTED OR IMPAIRED BY REASON OF THE AFOREMENTIONED MATTERS, INCLUDING ANY LEASE, GRANT, EXCEPTION OR RESERVATION OF MINERALS OR MINERAL RIGHTS TOGETHER WITH ANY RIGHTS APPURTENANT THERETO.</ExceptionSpecial3>
+  <ExceptionsTotalNo>3</ExceptionsTotalNo>
+  <ExceptionsSpecialTotalNo>3</ExceptionsSpecialTotalNo>
+  <LenderPhone>816-221-0881</LenderPhone>
+  <LenderFax>816-817-4519</LenderFax>
+  <LenderName_PC>LENDERLIVE</LenderName_PC>
+  <LenderAddress1_PC>1044 MAIN STREET</LenderAddress1_PC>
+  <LenderAddress2_PC>SUITE 700</LenderAddress2_PC>
+  <LenderCSZ_PC>KANSAS CITY, MO 64105</LenderCSZ_PC>
+  <LenderPhone_PC>816-221-0881</LenderPhone_PC>
+  <LenderFax_PC>816-817-4519</LenderFax_PC>
+  <companyName>Closeline Settlements</companyName>
+  <companyAddress1>1390 Piccard Dr.</companyAddress1>
+  <companyAddress2>Suite 300</companyAddress2>
+  <companyAddressCSZ>Rockville, MD 20850</companyAddressCSZ>
+  <companyPhone>301-795-2000</companyPhone>
+  <companyFax>240-558-1761</companyFax>
+  <companyTaxID>20-1621230</companyTaxID>
+  <companyClPrem>CL</companyClPrem>
+  <companyisAgent />
+  <companyisActive>YES</companyisActive>
+  <companyisInUse>YES</companyisInUse>
+  <companyAddressStreetCSZ>1390 Piccard Dr., Suite 300, Rockville, MD 20850</companyAddressStreetCSZ>
+  <Date-Today-Numbers>9/29/2017</Date-Today-Numbers>
+  <Date-Today-WordsWithDayOfWeek>Friday, September 29, 2017</Date-Today-WordsWithDayOfWeek>
+  <Date-Today-Words2DigitDay>September 29, 2017</Date-Today-Words2DigitDay>
+  <Date-Today-Words1DigitDay>September 29, 2017</Date-Today-Words1DigitDay>
+  <Time-Today-hh-MM>12:40 PM</Time-Today-hh-MM>
+  <OfficeGroup>Closeline</OfficeGroup>
+  <AffiliateOffice>HQ</AffiliateOffice>
+  <AffiliateName>Closeline Settlements</AffiliateName>
+  <AffiliateAddress1>1390 Piccard Dr.</AffiliateAddress1>
+  <AffiliateAddress2>Suite 300</AffiliateAddress2>
+  <AffiliateCSZ>Rockville, MD 20850</AffiliateCSZ>
+  <AffiliatePhone>301-795-2000</AffiliatePhone>
+  <AffiliateFax>240-558-1761</AffiliateFax>
+  <AffiliateTaxID>20-1621230</AffiliateTaxID>
+  <Borrower1Signature>SAMMY TEST By: BARBARA HOPKINS, AUTHORIZED INDIVIDUAL</Borrower1Signature>
+  <BorrowersSignatures>SAMMY TEST By: BARBARA HOPKINS, AUTHORIZED INDIVIDUAL</BorrowersSignatures>
+  <Seller1Signature>CONCORD CONDOMINIUM, LLC By: DEFENCE LALAWNG, MEMBER</Seller1Signature>
+  <SellersSignatures>CONCORD CONDOMINIUM, LLC By: DEFENCE LALAWNG, MEMBER</SellersSignatures>
+  <BuyerAndSellerSignatures>SAMMY TEST and CONCORD CONDOMINIUM, LLC</BuyerAndSellerSignatures>
+  <BorrowersAll>SAMMY TEST</BorrowersAll>
+  <BorrowersList>SAMMY TEST</BorrowersList>
+  <SellersAll>CONCORD CONDOMINIUM, LLC</SellersAll>
+  <SellersList>CONCORD CONDOMINIUM, LLC</SellersList>
+  <Borrower1and2Fullname>SAMMY TEST</Borrower1and2Fullname>
+  <Seller1and2Fullname>CONCORD CONDOMINIUM, LLC</Seller1and2Fullname>
+  <SellersNamesForNotaryJurat>DEFENCE LALAWNG, MEMBER for CONCORD CONDOMINIUM, LLC</SellersNamesForNotaryJurat>
+  <BorrowersNamesForNotaryJurat>BARBARA HOPKINS, AUTHORIZED INDIVIDUAL for SAMMY TEST</BorrowersNamesForNotaryJurat>
+  <TaxOfficeTotalNo>2</TaxOfficeTotalNo>
+  <TaxOffice1Name>PRINCE GEORGES COUNTY TREASURY DIVISION</TaxOffice1Name>
+  <TaxOffice1Payee>PRINCE GEORGES COUNTY</TaxOffice1Payee>
+  <TaxOffice1Address1>14741 GOV. ODEN BOWIE DRIVE, ROOM 1090</TaxOffice1Address1>
+  <TaxOffice1CSZ>UPPER MARLBORO, MD 20772</TaxOffice1CSZ>
+  <TaxOffice1Phone>301-952-5375/4030</TaxOffice1Phone>
+  <TaxOffice1Website>HTTP://TAXINQUIRY.PRINCEGEORGESCOUNTYMD.GOV/</TaxOffice1Website>
+  <TaxOffice1DueDates>9-30 &amp; 12-31</TaxOffice1DueDates>
+  <TaxOffice1Notes>PHY ADR:  14741 GOV. ODEN BOWIE DRIVE, ROOM 1090.  UPPER MARLBORO, MD  20772</TaxOffice1Notes>
+  <TaxOffice1isMainRecord>True</TaxOffice1isMainRecord>
+  <TaxOffice2Name>WSSC - WATER/SEWER</TaxOffice2Name>
+  <TaxOffice2Attn>CUTOMER SERVICE</TaxOffice2Attn>
+  <TaxOffice2Address1>14501 SWEITZER LANE</TaxOffice2Address1>
+  <TaxOffice2CSZ>LAUREL, MD 20707</TaxOffice2CSZ>
+  <TaxOffice2Phone>301-206-4001</TaxOffice2Phone>
+  <TaxOffice2Website>HTTP://WWW.WSSC.DST.MD.US/</TaxOffice2Website>
+  <TaxOffice2isMainRecord>False</TaxOffice2isMainRecord>
+  <TaxOfficesList>PRINCE GEORGES COUNTY TREASURY DIVISION|WSSC - WATER/SEWER</TaxOfficesList>
+  <UserEmail>igoryacheva@closeline.com</UserEmail>
+  <UserName>Irina Goryacheva</UserName>
+</Rescue>

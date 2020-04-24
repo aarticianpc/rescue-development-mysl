@@ -1,0 +1,351 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--XML Document Constructed on 8/30/2017 4:33 PM-->
+<Rescue>
+  <FileNumber>50828MDF-HQ</FileNumber>
+  <OnlineOrderNumber>40532</OnlineOrderNumber>
+  <CaseStatus>CONTRACT PENDING</CaseStatus>
+  <entryDate>8-26-2016</entryDate>
+  <LOEmailAddress>test@test.com</LOEmailAddress>
+  <ProcessorEmailAddress> aa@test.com</ProcessorEmailAddress>
+  <entrytime>12:20:27 PM</entrytime>
+  <confirmno>40532</confirmno>
+  <orderdate>2/28/2013</orderdate>
+  <ordertime>12:12:52 PM</ordertime>
+  <ReverseMtg>NO</ReverseMtg>
+  <Office>HQ</Office>
+  <Type>PURCHASE</Type>
+  <BorrowerLastName>TEST</BorrowerLastName>
+  <LenderName>CASH TRANSACTION</LenderName>
+  <LenderRecordID>872</LenderRecordID>
+  <LenderLoanOfficer>LOAN OFFICER</LenderLoanOfficer>
+  <LenderLoanOfficerContact>CONTACT</LenderLoanOfficerContact>
+  <LoanBrokerName>WELLS TEST</LoanBrokerName>
+  <LoanBrokerAddress1>155</LoanBrokerAddress1>
+  <LoanBrokerCityStateZip>5652</LoanBrokerCityStateZip>
+  <LoanBrokerRecordID>40268</LoanBrokerRecordID>
+  <PropertyAddress>11224 ORLEANS WAY</PropertyAddress>
+  <PropertyCity>KENSINGTON</PropertyCity>
+  <PropertyStateAbbr>MD</PropertyStateAbbr>
+  <PropertyStateName>Maryland</PropertyStateName>
+  <PropertyZip>20895-1041</PropertyZip>
+  <PropertyCounty>FREDERICK COUNTY</PropertyCounty>
+  <PropertyType>COMMERCIAL</PropertyType>
+  <LoanType>CASH</LoanType>
+  <LoanNumber>NEW</LoanNumber>
+  <SalesPrice>207005.00</SalesPrice>
+  <SalesPriceInWords>two hundred and seven thousand and five dollars and zero cents</SalesPriceInWords>
+  <LoanAmount>207005.00</LoanAmount>
+  <LoanAmountInWords>two hundred and seven thousand and five dollars and zero cents</LoanAmountInWords>
+  <SettlementDate>5-15-2017</SettlementDate>
+  <SettlementDateInWords>May 15, 2017</SettlementDateInWords>
+  <DisburseDate>5-31-2017</DisburseDate>
+  <DisburseDateInWords>May 31, 2017</DisburseDateInWords>
+  <BorrowersTotalNo>2</BorrowersTotalNo>
+  <Borrower1Fullname>TEST TEST</Borrower1Fullname>
+  <Borrower1HomeAddress>11224 ORLEANS WAY</Borrower1HomeAddress>
+  <Borrower1CSZ>KENSINGTON, MD 20895-1041</Borrower1CSZ>
+  <Borrower1SSN>111-11-1111</Borrower1SSN>
+  <Borrower1EntityType>INDIVIDUAL</Borrower1EntityType>
+  <Borrower1Signatory>SIGNATORY</Borrower1Signatory>
+  <Borrower1Title>TITLE</Borrower1Title>
+  <Borrower2Fullname>BORROWER TWO</Borrower2Fullname>
+  <Borrower2HomeAddress>11224 ORLEANS WAY</Borrower2HomeAddress>
+  <Borrower2CSZ>KENSINGTON, MD 20895-1041</Borrower2CSZ>
+  <SellersTotalNo>1</SellersTotalNo>
+  <Seller1Fullname>TBD TBD</Seller1Fullname>
+  <Seller1HomeAddress>2701 TOWER OAKS BLVD, SUITE 200</Seller1HomeAddress>
+  <Seller1CSZ>KENSINGTON, MD 20895-1041</Seller1CSZ>
+  <Seller1SSN>111-11-1111</Seller1SSN>
+  <Seller1EntityType>LLC</Seller1EntityType>
+  <Seller1Signatory>SIGNATORY</Seller1Signatory>
+  <Seller1Title>TITLE</Seller1Title>
+  <Abstractor>JOCELYN</Abstractor>
+  <TypeSearch>DATE RUNDOWN</TypeSearch>
+  <InDateSearch>8/11/2016</InDateSearch>
+  <EstateTypeFeeOrLease>FEE SIMPLE</EstateTypeFeeOrLease>
+  <SearchThruDate>8/20/2016</SearchThruDate>
+  <GrantorsForDeed>PAMELA S. SANDOZ, SURVIVING JOINT TENANT OF DELLA A. GORGOVITS WHO DIED ON 12/16/10, ESTATE NO. W672</GrantorsForDeed>
+  <DateOfDeed>5/17/2011</DateOfDeed>
+  <RecordedDateDeed>6/2/2011</RecordedDateDeed>
+  <LiberBookDeed>41680</LiberBookDeed>
+  <FolioPageDeed>287</FolioPageDeed>
+  <PropertyLegal>ALL THAT LOT OF GROUND SITUATE IN THE COUNTY OF MONTGOMERY, STATE OF MARYLAND AND DESCRIBED AS FOLLOWS, THAT IS TO SAY:CONDOMINIUM UNIT NO. 14805-403, ?VILLA CORTESE AT LEISURE WORLD?, A CONDOMINIUM, MONTGOMERY COUNTY, MARYLAND, AND THE LIMITED COMMON ELEMENTS APPURTENANT THERETO, AS DE?NED AND SET FORTH IN DECLARATION OF CONDOMINIUM DATED SEPTEMBER 8, 1994, AND RECORDED SEPTEMBER 9, 1994 IN LIBER 12908, AT FOLIO 495, SUBSEQUENTLY AMENDED BY SUPPLEMENTAL DECLARATION DATED MARCH 31, 1995 AND RECORDED APRIL 7, 1995 IN LIBER 13337 AT FOLIO 26, SUBSEQUENTLY AMENDED BY SUPPLEMENTAL DECLARATION DATED AUGUST 14, 1995 AND RECORDED AUGUST 21, 1995 IN LIBER 13574 AT FOLIO 528, SUBSEQUENTLY AMENDED BY SUPPLEMENTAL DECLARATION DATED MARCH 7, 1996 AND RECORDED MARCH 7, 1996 IN LIBER 13973 AT FOLIO 237, AND DELINEATED ON PLAT OF CONDOMINIUM SUBDIVISION RECORDED IN CONDOMINIUM PLAT BOOK 66 AT PLAT NO. 6794 ET. SEQ., AND CONDOMINIUM PLAT BOOK 67 AT PLAT 6894 ET. SEQ., AND CONDOMINIUM PLAT BOOK 68 AT PLAT 6944 ET. SEQ., AND CONDOMINIUM PLAT BOOK 69 AT PLAT 7068 ET. SEQ., AMONG THE LAND RECORDS OF MONTGOMERY COUNTY, MARYLAND.</PropertyLegal>
+  <PropertyTaxID>13-03110845</PropertyTaxID>
+  <CurrentTitleHolders>ALLAN SHEMER AND RUJA K. SHEMER, AS TENANTS BY THE ENTIRETY UNTO THE SURVIVOR OF THEM</CurrentTitleHolders>
+  <NewTitleHolders>TEST TEST</NewTitleHolders>
+  <AreWeDoingDeed>Y</AreWeDoingDeed>
+  <StatusOwnership>CONTRACT PENDING</StatusOwnership>
+  <LienssTotalNo>3</LienssTotalNo>
+  <Liens1Dated>5-5-2015</Liens1Dated>
+  <Liens1OrigAmt>456</Liens1OrigAmt>
+  <Liens1From>TBD TBD</Liens1From>
+  <Liens1InstrType>MORTGAGE</Liens1InstrType>
+  <Liens1Action>PAYOFF</Liens1Action>
+  <Liens1PayoffName>AMERICAN FINANCIAL RESOURCES, INC.</Liens1PayoffName>
+  <Liens1PayoffAttn>PAYOFF DEPARTMENT</Liens1PayoffAttn>
+  <Liens1PayoffAddress1>3637 SENTARA WAY</Liens1PayoffAddress1>
+  <Liens1PayoffCSZ>VIRGINIA BEACH, VA 23452</Liens1PayoffCSZ>
+  <Liens1AccountNo>456</Liens1AccountNo>
+  <Liens1Principal>56230.00</Liens1Principal>
+  <Liens1TotalDue>56230.00</Liens1TotalDue>
+  <Liens1InterestThruDate>12-6-2016</Liens1InterestThruDate>
+  <Liens1Total>56230.00</Liens1Total>
+  <Liens1GoodThru>12-6-2016</Liens1GoodThru>
+  <Liens2Dated>4-4-2014</Liens2Dated>
+  <Liens2OrigAmt>789</Liens2OrigAmt>
+  <Liens2From>TBD TBD</Liens2From>
+  <Liens2InstrType>DEED OF TRUST</Liens2InstrType>
+  <Liens2Assignment>ASSIGNMENT</Liens2Assignment>
+  <Liens2Action>THIS IS STAYING IN PLACE AS A MODIFIED LIEN</Liens2Action>
+  <Liens3Dated>7-24-2009</Liens3Dated>
+  <Liens3OrigAmt>103000.00</Liens3OrigAmt>
+  <Liens3From>TBD TBD</Liens3From>
+  <Liens3InstrType>DEED OF TRUST</Liens3InstrType>
+  <Liens3OrigLender>AMERICA'S WHOLESALE LENDER</Liens3OrigLender>
+  <Liens3Recorded>2-22-2006</Liens3Recorded>
+  <Liens3Liber>11871</Liens3Liber>
+  <Liens3Folio>1702</Liens3Folio>
+  <Liens3InstrNo>1117234</Liens3InstrNo>
+  <Liens3Assignment>GREEN TREE SERVICING LLC, A DELAWARE LIMITED LIABILITY COMPANY</Liens3Assignment>
+  <Liens3Recorded2>9-23-2015</Liens3Recorded2>
+  <Liens3Action>SUBORDINATE</Liens3Action>
+  <Requirement1>PUBLIC RECORDS SHOW JUDGMENT(S) AGAINST AN INDIVIDUAL OWNER THAT MAY ATTACH UPON DIVORCE, OR THE DEATH OF A SPOUSE. BORROWER'S SHOULD EXECUTE A MARITAL AFFIDAVIT AT SETTLEMENT.</Requirement1>
+  <Requirement2>PLEASE PROVIDE SOCIAL SECURITY NUMBER(S) FOR CURRENT OWNER(S) SO THAT TITLE COMPANY MAY CONDUCT FEDERAL AND BANKRUPTCY SEARCHES FOR SAID INDIVIDUAL(S).</Requirement2>
+  <Requirement3>SUBJECT TO RECEIPT AND REVIEW OF CONTINUOUS MARRIAGE AFFIDAVIT EXECUTED BY ____________________________ AND ____________________________, CONFIRMING CONTINUOUS MARRIAGE THROUGH CLOSING DATE. </Requirement3>
+  <RequirementSpecial3>sdfsdfsdf</RequirementSpecial3>
+  <RequirementSpecialNotes3>sdfsdfsdfsdf</RequirementSpecialNotes3>
+  <RequirementsTotalNo>3</RequirementsTotalNo>
+  <RequirementsSpecialTotalNo>1</RequirementsSpecialTotalNo>
+  <PrimaryLicense>FIRST AMERICAN TITLE INSURANCE COMPANY</PrimaryLicense>
+  <PolicyExceptionRemove>1-2</PolicyExceptionRemove>
+  <LoanPolicyType>2006 BASIC LOAN POLICY,5011300</LoanPolicyType>
+  <LoanPolicyNo>5011300-938957</LoanPolicyNo>
+  <OwnersPolicyType>EXPANDED OWNERS POLICY,5006400</OwnersPolicyType>
+  <InstrdocType1>SUBORDINATION AGREEMENT</InstrdocType1>
+  <RecordingProblem>N</RecordingProblem>
+  <ToDo1>USE LARRY BUTLER FOR RECORDING.  SEE PRICE SHEET IN USEFUL LINKS</ToDo1>
+  <ToDo2>CAN ONLY ISSUE ALTA 4.1 AND 5.1 - NOT ALTA 4 AND 5.</ToDo2>
+  <ToDo3>PURCHASE - SEE TENANT'S RIGHTS MEMO IF TRANSFERRING TENANT-OCCUPIED PROPERTY.  SEE REQUIREMENTS/ADD EXCEPTIONS.  HTTP://WWW.MHTRESCUE.COM/CRITDOCS/MARYLANDTENANTSRIGHTSMEMO.PDF</ToDo3>
+  <FundingStatus1>OK</FundingStatus1>
+  <Fundingfileno2>50828MDF-HQ</Fundingfileno2>
+  <FundDate3>8/2/2016</FundDate3>
+  <FileFundedDate4>8-3-2016</FileFundedDate4>
+  <FundBorrower5>TEST TEST</FundBorrower5>
+  <FundPropaddress6>11224 ORLEANS WAY</FundPropaddress6>
+  <FundPropCSZ7>KENSINGTON MD 20895-1041</FundPropCSZ7>
+  <FundPropState8>MD</FundPropState8>
+  <FundGrossLoanAmount9>400000.00</FundGrossLoanAmount9>
+  <FundNetLoanAmount10>400000.00</FundNetLoanAmount10>
+  <FundBorrowerFundReceived10>100000.00</FundBorrowerFundReceived10>
+  <FundingCheckPayee11>TBD TBD</FundingCheckPayee11>
+  <FundingCheckAmount11>500000.00</FundingCheckAmount11>
+  <WireAuthorizer>Irina Goryacheva on 8/5/2016 3:44PM</WireAuthorizer>
+  <WireNoteDate1>9/8/2016 4:33PM</WireNoteDate1>
+  <WireNoteBy2>Irina Goryacheva</WireNoteBy2>
+  <WireNotes3>new nkjsfklsjdf adfj kladfj kafj alfj aljf aklsdfj aldfk af jalfj lafj s</WireNotes3>
+  <WirePostedDate1>8/5/2016 10:44AM</WirePostedDate1>
+  <WirePostedBy1>IrinaGoryacheva</WirePostedBy1>
+  <WireType1>Deposit</WireType1>
+  <WireAccountNo1>1592690601</WireAccountNo1>
+  <WireAmount1>250.00</WireAmount1>
+  <WirePostedDate2>8/5/2016 10:44AM</WirePostedDate2>
+  <WirePostedBy2>IrinaGoryacheva</WirePostedBy2>
+  <WireType2>TXFR</WireType2>
+  <WireDescription2>Transfer FROM 1592690601</WireDescription2>
+  <WireAccountNo2>112679711</WireAccountNo2>
+  <WireAmount2>0.00</WireAmount2>
+  <WirePostedDate3>8/5/2016 10:51AM</WirePostedDate3>
+  <WirePostedBy3>Irina Goryacheva</WirePostedBy3>
+  <WireType3>Deposit</WireType3>
+  <WireAccountNo3>112679711</WireAccountNo3>
+  <WireAmount3>500.00</WireAmount3>
+  <WirePostedDate4>8/5/2016 3:51PM</WirePostedDate4>
+  <WirePostedBy4>Irina Goryacheva</WirePostedBy4>
+  <WireType4>TXFR</WireType4>
+  <WireDescription4>Transfer FROM 112679711</WireDescription4>
+  <WireAccountNo4>1937945440</WireAccountNo4>
+  <WireAmount4>0.00</WireAmount4>
+  <ListingAgentFullName>PH&amp;LLIS ALEXANDER</ListingAgentFullName>
+  <AffiliateAgentName>PH&amp;LLIS ALEXANDER</AffiliateAgentName>
+  <ListingBroker>LONG AND FOSTER</ListingBroker>
+  <ListBrokerLicNo>N/A</ListBrokerLicNo>
+  <ListingBrokerAddress>4400 JENIFER STREET</ListingBrokerAddress>
+  <ListingBrokerCSZ>WASHINGTON, DC 20015</ListingBrokerCSZ>
+  <ListingAgentHomePhone>202-364-1300</ListingAgentHomePhone>
+  <ListingAgentWorkPhone>202-364-1300</ListingAgentWorkPhone>
+  <ListingAgentFax>202-237-9889</ListingAgentFax>
+  <ListingAgentEmail>REALESTATESTARS@LONGANDFOSTER.COM</ListingAgentEmail>
+  <ListingAgentID>6025</ListingAgentID>
+  <SellingAgentFullName>CARMEN ARGOUD</SellingAgentFullName>
+  <SellingBroker>BROKER NUMBER ONE1</SellingBroker>
+  <SellingBrokerLicNo>56-56894</SellingBrokerLicNo>
+  <SellingBrokerAddress>2342 ADDRESS</SellingBrokerAddress>
+  <SellingBrokerCSZ>CITY CO 45623</SellingBrokerCSZ>
+  <SellingAgentWorkPhone>703-625-6731</SellingAgentWorkPhone>
+  <SellingAgentFax>703-831-8917</SellingAgentFax>
+  <SellingAgentEmail>CARMENARGOUD@GMAIL.COM</SellingAgentEmail>
+  <SellingAgentLicNo>1245632</SellingAgentLicNo>
+  <SellingAgentID>6384</SellingAgentID>
+  <ListingBrokerCommissionPercent>3</ListingBrokerCommissionPercent>
+  <ListingBrokerCommissionAmount>10800.0000</ListingBrokerCommissionAmount>
+  <ListingBrokerAdminFee>553.0000</ListingBrokerAdminFee>
+  <SellingBrokerCommissionPercent>3</SellingBrokerCommissionPercent>
+  <SellingBrokerCommissionAmount>10800.0000</SellingBrokerCommissionAmount>
+  <BrokerCommissionSalesPrice>207005.0000</BrokerCommissionSalesPrice>
+  <ListingBrokerCommissionPaidBy>Seller</ListingBrokerCommissionPaidBy>
+  <SellingBrokerCommissionPaidBy>Buyer</SellingBrokerCommissionPaidBy>
+  <SellingBrokerAdminPaidBy>Seller</SellingBrokerAdminPaidBy>
+  <ListingAdminPaidBy>Buyer</ListingAdminPaidBy>
+  <ListingBrokerAdminName>ADMIN FEE</ListingBrokerAdminName>
+  <ListingBrokerOtherAmount>360000.0000</ListingBrokerOtherAmount>
+  <SellingBrokerAdminName>ADMIN FEE</SellingBrokerAdminName>
+  <SellingBrokerOtherAmount>360000.0000</SellingBrokerOtherAmount>
+  <TaxType>CITY</TaxType>
+  <TaxAnnualAmt>123.00</TaxAnnualAmt>
+  <TaxHowTaxPaid>SEMI-ANNUALLY</TaxHowTaxPaid>
+  <TaxDueDates>5/5</TaxDueDates>
+  <TaxLastPaidDate>8/9/2016</TaxLastPaidDate>
+  <TaxLastPaidAmt>562.32</TaxLastPaidAmt>
+  <TaxDiscount>True</TaxDiscount>
+  <TaxEstimated>False</TaxEstimated>
+  <TaxDelinquentAmt>1,230.00</TaxDelinquentAmt>
+  <TaxGoodThruDate>9/1/2016</TaxGoodThruDate>
+  <TaxGeneralClause>ANNUAL CITY TAXES ARE $123.00. TAXES ARE PAID SEMI-ANNUALLY TO CITY OF TAKOMA PARK ON 5/5. TAXES WERE LAST PAID ON 8/9/2016 IN THE DISCOUNTED AMOUNT OF $562.32. DELINQUENT TAXES, INCLUDING INTEREST AND PENALTIES, FOR THE PERIOD OF  2016 IN THE AMOUNT OF $1,230.00 ARE GOOD THROUGH 9/1/2016. TAXES PAID AFTER THAT DATE ARE SUBJECT TO ADDITIONAL PENALTIES AND INTEREST. </TaxGeneralClause>
+  <TaxPayee>CITY OF TAKOMA PARK</TaxPayee>
+  <TaxForPeriod>2016</TaxForPeriod>
+  <TaxType>SCHOOL</TaxType>
+  <TaxAnnualAmt>1,235.00</TaxAnnualAmt>
+  <TaxHowTaxPaid>SEMI-ANNUALLY</TaxHowTaxPaid>
+  <TaxDueDates>9-30 AND 12-31</TaxDueDates>
+  <TaxDiscount>False</TaxDiscount>
+  <TaxEstimated>False</TaxEstimated>
+  <TaxGeneralClause>ANNUAL SCHOOL TAXES ARE $1,235.00. TAXES ARE PAID SEMI-ANNUALLY TO MONTGOMERY COUNTY, MD ON 9-30 AND 12-31.</TaxGeneralClause>
+  <TaxPayee>MONTGOMERY COUNTY, MD</TaxPayee>
+  <TaxType>SUMMER</TaxType>
+  <TaxAnnualAmt>456.00</TaxAnnualAmt>
+  <TaxHowTaxPaid>MONTHLY</TaxHowTaxPaid>
+  <TaxDueDates>9-30 AND 12-31</TaxDueDates>
+  <TaxDiscount>False</TaxDiscount>
+  <TaxEstimated>False</TaxEstimated>
+  <TaxGeneralClause>ANNUAL SUMMER TAXES ARE $456.00. TAXES ARE PAID MONTHLY TO MONTGOMERY COUNTY, MD ON 9-30 AND 12-31.</TaxGeneralClause>
+  <TaxPayee>MONTGOMERY COUNTY, MD</TaxPayee>
+  <companyName>Closeline Settlements</companyName>
+  <companyAddress1>1390 Piccard Dr.</companyAddress1>
+  <companyAddress2>Suite 300</companyAddress2>
+  <companyAddressCSZ>Rockville, MD 20850</companyAddressCSZ>
+  <companyPhone>301-795-2000</companyPhone>
+  <companyFax>240-558-1761</companyFax>
+  <companyTaxID>20-1621230</companyTaxID>
+  <companyClPrem>CL</companyClPrem>
+  <companyisAgent />
+  <companyisActive>YES</companyisActive>
+  <companyisInUse>YES</companyisInUse>
+  <companyAddressStreetCSZ>1390 Piccard Dr., Suite 300, Rockville, MD 20850</companyAddressStreetCSZ>
+  <Date-Today-Numbers>8/30/2017</Date-Today-Numbers>
+  <Date-Today-WordsWithDayOfWeek>Wednesday, August 30, 2017</Date-Today-WordsWithDayOfWeek>
+  <Date-Today-Words2DigitDay>August 30, 2017</Date-Today-Words2DigitDay>
+  <Date-Today-Words1DigitDay>August 30, 2017</Date-Today-Words1DigitDay>
+  <Time-Today-hh-MM>4:33 PM</Time-Today-hh-MM>
+  <DeedPreparedBy>CLOSELINE SETTLEMENTS</DeedPreparedBy>
+  <DeedTitleInsurer>First American Title Insurance Company</DeedTitleInsurer>
+  <DeedTitleExamYLang>THIS DEED WAS PREPARED WITHOUT THE BENEFIT OF A TITLE EXAMINATION</DeedTitleExamYLang>
+  <DeedCorrectiveLang>THIS CORRECTIVE DEED Is BEING EXECUTED For THE PURPOSE OF CORRECTING THE DEED RECORDED 6/2/2011 AT LIBER/BOOK 41680 FOLIO/PAGE 287.</DeedCorrectiveLang>
+  <DeedStateNotaryLang>THIS CORRECTIVE DEED Is BEING EXECUTED For THE PURPOSE OF CORRECTING THE DEED RECORDED 6/2/2011 AT LIBER/BOOK 41680 FOLIO/PAGE 287.</DeedStateNotaryLang>
+  <OfficeGroup>Closeline</OfficeGroup>
+  <AffiliateOffice>HQ</AffiliateOffice>
+  <AffiliateName>Closeline Settlements</AffiliateName>
+  <AffiliateAddress1>1390 Piccard Dr.</AffiliateAddress1>
+  <AffiliateAddress2>Suite 300</AffiliateAddress2>
+  <AffiliateCSZ>Rockville, MD 20850</AffiliateCSZ>
+  <AffiliatePhone>301-795-2000</AffiliatePhone>
+  <AffiliateFax>240-558-1761</AffiliateFax>
+  <AffiliateTaxID>20-1621230</AffiliateTaxID>
+  <Borrower1Signature>&lt;table style="width: 306px";&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;p&gt;&lt;span style="font-size:medium"&gt;Borrower(s) / Buyer(s)&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;p&gt;&lt;span style="font-size:medium"&gt;______________________________________&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-size:medium"&gt;TEST TEST&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+</Borrower1Signature>
+  <Borrower2Signature>&lt;table style="width: 306px";&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;p&gt;&lt;span style="font-size:medium"&gt;Borrower(s) / Buyer(s)&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;p&gt;&lt;span style="font-size:medium"&gt;______________________________________&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-size:medium"&gt;BORROWER TWO&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+</Borrower2Signature>
+  <BorrowersSignatures>&lt;table style="width: 306px";&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;&lt;span style="font-size:medium"&gt;&lt;p&gt;&lt;span style="font-size:medium"&gt;Borrower(s) / Buyer(s)&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;p&gt;&lt;span style="font-size:medium"&gt;&lt;p&gt;&lt;span style="font-size:medium"&gt;______________________________________&lt;/span&gt;&lt;/p&gt;TEST TEST&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;p&gt;&lt;span style="font-size:medium"&gt;______________________________________&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-size:medium"&gt;BORROWER TWO&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+</BorrowersSignatures>
+  <Seller1Signature>&lt;table style="width: 306px";&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;p&gt;&lt;span style="font-size:medium"&gt;Seller(s)&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;p&gt;&lt;span style="font-size:medium"&gt;TBD TBD&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size:medium"&gt;______________________________________&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-size:medium"&gt;By: SIGNATORY, TITLE&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+</Seller1Signature>
+  <SellersSignatures>&lt;table style="width: 306px";&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;&lt;span style="font-size:medium"&gt;&lt;p&gt;&lt;span style="font-size:medium"&gt;Seller(s)&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;p&gt;&lt;span style="font-size:medium"&gt;TBD TBD&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size:medium"&gt;______________________________________&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-size:medium"&gt;By: SIGNATORY, TITLE&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+</SellersSignatures>
+  <BuyerAndSellerSignatures>&lt;table style="width: 100%"&gt;
+&lt;tr&gt;
+&lt;td style="width: 50%"&gt;&lt;strong&gt;&lt;span style="font-size:medium"&gt;Buyer(s) / Borrower(s)&lt;/span&gt;&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style="width: 50%"&gt;&lt;strong&gt;&lt;span style="font-size:medium"&gt;Seller(s)&lt;/span&gt;&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="width: 50%"&gt;&lt;br /&gt;_________________________________&lt;br /&gt;TEST TEST&lt;/td&gt;
+&lt;td style="width: 50%"&gt;TBD TBD&lt;br/&gt;&lt;br /&gt;_________________________________&lt;br /&gt;By: SIGNATORY, TITLE&lt;br /&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="width: 50%"&gt;&lt;br /&gt;_________________________________&lt;br /&gt;BORROWER TWO&lt;/td&gt;
+&lt;td&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+</BuyerAndSellerSignatures>
+  <BorrowersAll>TEST TEST and BORROWER TWO</BorrowersAll>
+  <BorrowersList>TEST TEST|BORROWER TWO</BorrowersList>
+  <SellersAll>TBD TBD</SellersAll>
+  <SellersList>TBD TBD</SellersList>
+  <Borrower1and2Fullname>TEST TEST and BORROWER TWO</Borrower1and2Fullname>
+  <Seller1and2Fullname>TBD TBD</Seller1and2Fullname>
+  <SellersNamesForNotaryJurat>SIGNATORY, TITLE for TBD TBD</SellersNamesForNotaryJurat>
+  <BorrowersNamesForNotaryJurat>TEST TEST and BORROWER TWO</BorrowersNamesForNotaryJurat>
+  <TaxOfficeTotalNo>1</TaxOfficeTotalNo>
+  <TaxOffice1Name>FREDERICK COUNTY TREASURY DEPARTMENT</TaxOffice1Name>
+  <TaxOffice1Payee>FREDERICK COUNTY TREASURY DEPARTMENT</TaxOffice1Payee>
+  <TaxOffice1Address1>30 NORTH MARKET STREET</TaxOffice1Address1>
+  <TaxOffice1CSZ>FREDERICK, MD 21701</TaxOffice1CSZ>
+  <TaxOffice1Phone>301-600-1111</TaxOffice1Phone>
+  <TaxOffice1Website>HTTP://WWW.CO.FREDERICK.MD.US/</TaxOffice1Website>
+  <TaxOffice1DueDates>7-1 AND 10-1</TaxOffice1DueDates>
+  <TaxOffice1Notes>OPEN 24 HOURS- NEED 8-12 NUMBERS [2] [1]</TaxOffice1Notes>
+  <TaxOffice1isMainRecord>True</TaxOffice1isMainRecord>
+  <TaxOfficesList>FREDERICK COUNTY TREASURY DEPARTMENT</TaxOfficesList>
+  <UserEmail>igoryacheva@closeline.com</UserEmail>
+  <UserName>Irina Goryacheva</UserName>
+</Rescue>
